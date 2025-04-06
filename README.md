@@ -27,6 +27,10 @@
 
 [Dotnet ORM入门教程](https://grauenwolf.github.io/DotNet-ORM-Cookbook)
 
+# 云原生编程
+
+[.NET Aspire教程](https://www.youtube.com/watch?v=UYH97nPLWrM&list=PLdo4fOcmZ0oUfIayQMrRqaSL55Rkck-GD)
+
 # 设计模式与算法 Design Pattern & Algorithm
 https://github.com/TheAlgorithms/C-Sharp
 
